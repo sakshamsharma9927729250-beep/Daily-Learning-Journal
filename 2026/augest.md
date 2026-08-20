@@ -406,3 +406,108 @@ Today I focused not only on learning new concepts but also on applying them thro
 
 🚀 Next Focus:
 Continue strengthening Python, Git/GitHub, AI, automation, and practical project development while consistently contributing to my technical portfolio.
+
+# 📅 Daily Learning Journal
+
+**Date:** 20 August 2026
+**Focus:** GitHub Documentation & Project Improvement
+
+## 🎯 Today's Goal
+
+Today I focused on improving the documentation and overall professionalism of my existing **NeuralCalc Pro** Python calculator project.
+
+## 💻 Work Completed
+
+### 1. 📖 Improved README Documentation
+
+Updated the project's `README.md` with:
+
+* Project overview
+* Project features
+* Technologies used
+* Project structure
+* Installation instructions
+* How to run the application
+* Usage instructions
+* Supported mathematical operations
+* Error handling documentation
+* Safe expression evaluation explanation
+* Future improvements
+* Author information
+
+### 2. 📜 Added MIT License
+
+Added a `LICENSE` file using the **MIT License** so the project's usage and distribution permissions are clearly defined.
+
+### 3. 🧠 Improved Understanding of Documentation
+
+Learned that good documentation should help another developer understand:
+
+* What the project does
+* Which technologies it uses
+* How to install it
+* How to run it
+* How to use it
+* What problems it handles
+* How they can contribute or reuse the project
+
+### 4. 🔧 Git & GitHub Practice
+
+Practiced the workflow for updating an existing repository:
+
+```text
+Update README
+      ↓
+Add LICENSE
+      ↓
+git status
+      ↓
+git add
+      ↓
+git commit
+      ↓
+git push
+```
+
+## 🧩 Key Learning
+
+Today I learned that GitHub is not only about uploading code. A professional repository should also contain **clear documentation, licensing information, project structure, setup instructions, and usage information**.
+
+## 🚀 Project Improvement
+
+Before today's work:
+
+```text
+Code
+ ↓
+Basic Project
+```
+
+After today's work:
+
+```text
+Code
+ ↓
+README Documentation
+ ↓
+License
+ ↓
+Setup Instructions
+ ↓
+Usage Documentation
+ ↓
+Professional GitHub Project
+```
+
+## 📈 Today's Achievement
+
+Successfully worked on making my Calculator project more **professional, understandable, reusable, and portfolio-ready**.
+
+## 🎯 Tomorrow's Goal
+
+Continue improving my GitHub development workflow and work on another meaningful improvement to an existing project.
+
+---
+
+**Learning Status:** 🟢 Consistent Progress
+**Focus Area:** GitHub + Documentation + Software Development
