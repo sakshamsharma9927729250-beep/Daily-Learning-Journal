@@ -511,3 +511,33 @@ Continue improving my GitHub development workflow and work on another meaningful
 
 **Learning Status:** 🟢 Consistent Progress
 **Focus Area:** GitHub + Documentation + Software Development
+
+
+## 📌 Latest Update
+## 22 Augest working & learning
+- Improved project documentation
+- Updated usage instructions
+- Added clearer project structure...
+
+
+## 27 Augest update
+
+📅 Daily Learning Journal — 27 Aug 2026
+
+Focus: Open-source contribution & Git/GitHub workflow
+
+Worked on the Postal open-source repository.
+Configured multiple Git remotes:
+origin → personal fork
+upstream → development repository
+postalserver → official Postal repository
+Fetched and inspected upstream branches/tags.
+Created/continued the fix/spamassassin-nonascii-mysql branch for investigating an open Postal issue.
+Verified the project test suite: 121/121 tests passed ✅
+Practiced checking repository status, branches, remotes and commit history.
+Planned a separate quick contribution without disturbing the current issue branch.
+Continued improving practical Git, GitHub and open-source contribution workflow.
+
+Today's Achievement:
+
+Successfully prepared the Postal repository for professional open-source contribution and verified that the existing test suite passes completely. 🚀
