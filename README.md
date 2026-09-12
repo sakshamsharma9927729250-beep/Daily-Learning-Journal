@@ -27,8 +27,8 @@ I believe that small improvements every day lead to big achievements.
 | Month | Status |
 |--------|--------|
 | July 2026 | ✅ |
-| August 2026 | 🔄 |
-| September 2026 | ⏳ |
+| August 2026 | ✅ |
+| September 2026 | 🔄 |
 | October 2026 | ⏳ |
 | November 2026 | ⏳ |
 | December 2026 | ⏳ |
@@ -42,6 +42,7 @@ I believe that small improvements every day lead to big achievements.
 - AI Fundamentals
 - Startup Development
 - Problem Solving
+- GitHub Achievements & Workflows
 
 ---
 
@@ -61,13 +62,18 @@ Building one step at a time 🚀
 
 ---
 
-Today's Achievement:
+## 📝 Daily Learning Logs
 
-Successfully prepared the Postal repository for professional open-source contribution and verified that the existing test suite passes completely. 🚀
+### September 12, 2026
 
-## 📜 License
+**Today's Learning:**
+- 🦈 GitHub Pull Shark Badge: Understanding the achievement system and requirements for unlocking badges
+- 📖 Pull Request Workflows: Deep dive into creating, reviewing, and merging PRs within own repositories
+- 🔄 Git Best Practices: Branch creation, commit messages, and PR management strategies
+- 💡 Open Source Contribution: Learning how personal projects can also be platforms for practicing git workflows
 
-MIT License
+**Key Takeaway:** Consistency in contributions, whether in open-source projects or personal repositories, is the foundation of becoming a proficient developer. Every merged PR is a step forward! 🚀
+
 ---
 
 ## 📜 License
