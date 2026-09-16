@@ -242,3 +242,20 @@
 **Contribution Type:** Meaningful Documentation Update  
 **Learning Status:** 🟢 Consistent Progress  
 **Daily Workflow:** Learn → Practice → Document → Commit → Push
+
+## 📜 Python + Kaggle Collaboration Certificate
+
+### Achievement
+
+- Successfully completed the Python learning/collaboration activity with Kaggle.
+- Earned a certificate recognizing the completed learning activity.
+- Added the certificate to the repository as part of my professional learning record.
+
+### Certificate
+
+**Python + Kaggle Collaboration**
+
+📁 Certificate: `2026/Certificate/Python-Kaggle-Collaboration-Certificate.png`
+
+**Status:** ✅ Completed  
+**Category:** Python / Kaggle / Technical Learning
