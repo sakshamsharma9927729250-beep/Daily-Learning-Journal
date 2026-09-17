@@ -259,3 +259,70 @@
 
 **Status:** ✅ Completed  
 **Category:** Python / Kaggle / Technical Learning
+
+## 📅 September 17, 2026 — Python Engineering & GitHub Workflow
+
+### 🐍 Technical Learning
+
+Today I worked on improving the Calculator project with a focus on **input validation and reliable error handling**.
+
+### 💻 Engineering Work
+
+* Improved calculator input validation.
+* Added handling for invalid user input.
+* Added protection for division-by-zero scenarios where applicable.
+* Reviewed the existing calculator implementation before making changes.
+* Added/updated automated tests for the new validation behaviour.
+* Verified the updated functionality locally.
+
+### 🧪 Testing
+
+The updated calculator functionality was tested against valid and invalid input scenarios.
+
+The goal was not only to make the program work, but also to make its behaviour predictable when users provide unexpected input.
+
+### 🌿 Git & GitHub
+
+Today's work followed a professional Git workflow:
+
+* Created a dedicated feature branch.
+* Implemented the feature separately from `main`.
+* Added tests for the changes.
+* Created meaningful commits.
+* Pushed the branch to GitHub.
+* Prepared a Pull Request for review.
+
+### 📚 What I Learned
+
+Today's work helped me understand that professional Python development is not only about writing code.
+
+A reliable project also requires:
+
+* Input validation
+* Error handling
+* Automated testing
+* Clean commits
+* Branch-based development
+* Documentation
+* Pull Request workflow
+
+### 🎯 Daily Progress
+
+**Focus:** Python Engineering + GitHub
+**Project:** Python Beginner Projects — Calculator
+**Level:** Beginner → Professional Engineering Practice
+**Status:** Completed
+
+### 🌱 Personal Development
+
+Today I focused on maintaining consistency in my learning and building real project evidence instead of making activity only for GitHub contributions.
+
+The objective is to make every contribution represent actual learning, engineering work, or project improvement.
+
+### 🔗 Project
+
+**Repository:** `python-beginner-projects`
+
+**Feature:** Calculator Input Validation
+
+**Branch:** `feat/calculator-input-validation`
