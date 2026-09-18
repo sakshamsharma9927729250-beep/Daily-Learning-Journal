@@ -327,47 +327,85 @@ The objective is to make every contribution represent actual learning, engineeri
 
 **Branch:** `feat/calculator-input-validation`
 
-## 📅 September 18, 2026 — Python Engineering & GitHub Progress
+## 📅 September 18, 2026 — Python Engineering, Testing & GitHub Workflow
 
-### 🐍 Technical Learning
+### 🐍 Technical Focus
 
-Today I continued my practical Python development and focused on improving my understanding of professional software development practices.
+Today's learning focused on applying Python concepts through practical software-development work rather than studying concepts only in isolation.
+
+The main focus was **input validation, error handling, edge cases, testing, and maintaining a clean development workflow**.
 
 ### 💻 Engineering Progress
 
-* Continued practical Python project development.
-* Worked on improving input validation and error-handling concepts.
-* Practiced thinking about edge cases instead of only normal inputs.
-* Reviewed how testing can be used to make Python projects more reliable.
+* Continued practical development of the Calculator project.
+* Worked on handling unexpected and invalid user input.
+* Focused on predictable behaviour for edge cases.
+* Practiced separating normal execution from error-handling scenarios.
+* Reviewed the importance of automated testing when modifying existing functionality.
+* Applied a feature-branch workflow instead of making changes directly on `main`.
 
-### 🌿 Git & GitHub Progress
+### 🧪 Testing Mindset
 
-* Continued using a professional branch-based Git workflow.
-* Practiced creating focused commits for individual changes.
-* Worked with GitHub Pull Request workflow.
-* Maintained my Daily Learning Journal as a public record of consistent technical progress.
+Today's work strengthened my understanding that testing should cover more than the expected "happy path".
 
-### 📚 What I Learned
+Important cases considered during development included:
 
-Today's focus reinforced an important development principle:
+* Valid user input
+* Invalid input
+* Empty or unexpected input
+* Error conditions
+* Boundary and edge-case behaviour
 
-> Good software should not only work with expected input; it should also handle unexpected situations predictably.
+This helped me understand how developers make small projects more reliable and maintainable.
 
-I also continued improving my understanding of how developers organize, document, test, and review project changes.
+### 🌿 Git & GitHub Workflow
 
-### 🎯 Today's Focus
+I practiced a professional Git workflow:
 
-**Primary:** Python Engineering
-**Secondary:** Git & GitHub
-**Repository:** Daily Learning Journal
-**Status:** Completed
+`main → feature branch → changes → commit → push → Pull Request`
+
+The work was kept isolated on a dedicated branch so that the changes could be reviewed before being merged into `main`.
+
+I also continued using descriptive commit messages and avoided empty commits created only for contribution activity.
+
+### 📚 Key Learning
+
+Today's biggest lesson was that **professional software development is not only about making code work**.
+
+A reliable project also requires:
+
+* Input validation
+* Error handling
+* Testing
+* Edge-case thinking
+* Clean version control
+* Focused commits
+* Documentation
+* Code review
+
+### 🎯 Daily Progress
+
+| Area          | Progress                |
+| ------------- | ----------------------- |
+| Python        | Practical engineering   |
+| Testing       | Validation & edge cases |
+| Git           | Feature-branch workflow |
+| GitHub        | Pull Request practice   |
+| Documentation | Daily journal updated   |
+| Consistency   | Maintained              |
+
+**Overall Status:** ✅ Completed
 
 ### 🌱 Personal Development
 
-I continued maintaining consistency in my technical learning and focused on making my daily GitHub activity meaningful.
+I am continuing to build the habit of making every GitHub contribution meaningful.
 
-Instead of creating empty commits simply to increase contribution activity, I am building a genuine record of learning, project work, and professional development.
+The goal is not simply to increase the number of green squares on the contribution graph, but to create a public record of genuine learning, engineering practice, and continuous improvement.
 
-### 📈 Contribution Goal
+### 📈 Contribution Record
 
-Today's update is part of my ongoing effort to maintain a consistent GitHub contribution streak through genuine learning and documented progress.
+This update represents another genuine step in my ongoing technical-learning journey and contributes to my long-term GitHub consistency.
+
+**Focus:** Python Engineering + Testing + Git/GitHub
+**Repository:** Daily Learning Journal
+**Date:** September 18, 2026
