@@ -477,3 +477,27 @@ My current long-term focus is to become stronger in Python, AI, software develop
 **Date:** September 19, 2026
 **Contribution Type:** Documentation + Professional Workflow
 **Status:** Completed
+
+## 🏆 Fibu Python Course Completion Certificate
+
+Successfully completed the **Python Course from Fibu** and added the course completion certificate to my Daily Learning Journal.
+
+### 📜 Certificate Details
+
+* **Course:** Python
+* **Provider:** Fibu
+* **Achievement:** Course Completion
+* **Year:** 2026
+* **Certificate:** `Fibu_Python_Course_Certificate`
+
+### 🐍 Learning Focus
+
+The course contributed to my continued Python development and strengthened my foundation for further work in:
+
+* Python programming
+* Problem solving
+* Software development
+* AI and automation
+* Professional Python projects
+
+The certificate has been added to this repository as part of my technical learning record.
