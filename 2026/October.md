@@ -646,3 +646,34 @@ Improve my understanding of Git version control, remote repository synchronizati
 - **`git status`** — Shows the current branch status and uncommitted changes.
 - **`git log`** — Displays the repository's commit history.
 - **`git push`** —
+
+## 📅 October 30, 2026 — Git Change Inspection & Version Control
+
+### 🎯 Today's Objective
+Understand how to inspect, review, and manage changes before committing them to a Git repository.
+
+### 💻 Key Concepts
+
+- **`git diff`** — Displays changes made in tracked files that are not yet staged.
+- **`git diff --staged`** — Shows changes that are staged and ready to commit.
+- **`git restore`** — Discards selected working-tree changes. Use carefully.
+- **`git restore --staged`** — Removes files from the staging area without deleting their changes.
+- **`.gitignore`** — Specifies files and folders Git should ignore.
+
+### 🛠️ Practical Learning
+- Reviewed the difference between staged and unstaged changes.
+- Understood why reviewing a diff before committing is important.
+- Learned how to manage the staging area.
+- Explored how `.gitignore` helps keep unnecessary files out of repositories.
+
+### 🧠 Key Takeaway
+A professional Git workflow is not just about pushing code. It also requires reviewing changes, keeping commits focused, and maintaining a clean repository.
+
+### 🚀 Next Steps
+- Practice branching and merging.
+- Explore Git conflict resolution.
+- Apply these practices to Python projects.
+
+**Skills:** Git, GitHub, Version Control, Repository Management  
+**Contribution Type:** Technical Learning Documentation  
+**Date:** October 30, 2026
