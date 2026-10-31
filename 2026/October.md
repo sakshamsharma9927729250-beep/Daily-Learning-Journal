@@ -677,3 +677,52 @@ A professional Git workflow is not just about pushing code. It also requires rev
 **Skills:** Git, GitHub, Version Control, Repository Management  
 **Contribution Type:** Technical Learning Documentation  
 **Date:** October 30, 2026
+
+## 📅 October 31, 2026 — Python Logging & Debugging
+
+### 🎯 Today's Objective
+Understand how Python logging helps developers monitor application behaviour, identify errors, and debug programs efficiently.
+
+### 💻 Key Concepts
+
+- **Logging:** Recording important events while a program runs.
+- **DEBUG:** Detailed information useful during development.
+- **INFO:** General information about program execution.
+- **WARNING:** Indicates a situation that may need attention.
+- **ERROR:** Records an operation that failed.
+- **CRITICAL:** Indicates a serious application-level problem.
+
+### 🛠️ Practical Example
+
+```python
+import logging
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(levelname)s: %(message)s"
+)
+
+def calculate_total(price, quantity):
+    logging.info("Calculating total")
+
+    if price < 0 or quantity < 0:
+        logging.error("Invalid input received")
+        return None
+
+    return price * quantity
+
+result = calculate_total(100, 3)
+print("Total:", result)
+```
+
+### 🧠 Key Learning
+Logging provides a structured way to understand what happens inside an application. It is more useful for maintaining larger projects than relying only on scattered print statements.
+
+### 🚀 Next Steps
+- Explore logging to files.
+- Practise exception handling with logging.
+- Add structured logging to a Python project.
+
+**Skills:** Python, Logging, Debugging, Application Monitoring  
+**Contribution Type:** Python Technical Practice  
+**Date:** October 31, 2026
