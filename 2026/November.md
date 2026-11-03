@@ -43,3 +43,45 @@ Automated testing improves code reliability and makes future modifications safer
 **Skills:** Python, Unit Testing, unittest, Software Quality Assurance  
 **Contribution Type:** Technical Learning & Code Practice  
 **Date:** November 1, 2026
+
+## 📅 November 3, 2026 — Python Context Managers & File Handling
+
+### 🎯 Today's Objective
+Understand Python context managers and how they help manage resources safely while working with files.
+
+### 💻 Key Concepts
+
+- **Context Manager:** An object that manages resource setup and cleanup automatically.
+- **`with` Statement:** Provides a clean way to work with resources.
+- **`__enter__()`:** Runs when entering a context.
+- **`__exit__()`:** Runs when leaving a context.
+- **Automatic Cleanup:** Ensures resources such as files are properly closed.
+
+### 🛠️ Practical Implementation
+
+```python
+from pathlib import Path
+
+file_path = Path("learning_notes.txt")
+
+with file_path.open("w", encoding="utf-8") as file:
+    file.write("Learning Python Context Managers")
+
+with file_path.open("r", encoding="utf-8") as file:
+    content = file.read()
+
+print(content)
+```
+
+### 🧠 Key Learning
+The `with` statement makes resource management safer and cleaner. It automatically handles file closure, even if an exception occurs inside the context.
+
+### 🚀 Practical Tasks
+- Create a text file using `pathlib`.
+- Write and read data using a context manager.
+- Handle file-related exceptions.
+- Explore custom context managers.
+
+**Skills:** Python, File Handling, Context Managers, pathlib  
+**Contribution Type:** Python Technical Learning & Practice  
+**Date:** November 3, 2026
