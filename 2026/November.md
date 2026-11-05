@@ -85,3 +85,55 @@ The `with` statement makes resource management safer and cleaner. It automatical
 **Skills:** Python, File Handling, Context Managers, pathlib  
 **Contribution Type:** Python Technical Learning & Practice  
 **Date:** November 3, 2026
+
+## 📅 November 5, 2026 — Python Generators & Yield
+
+### 🎯 Today's Objective
+Understand Python generators and how they produce values one at a time instead of storing an entire sequence in memory.
+
+### 💻 Key Concepts
+
+- **Generator:** A special iterator that produces values lazily.
+- **`yield`:** Returns a value while preserving the function's execution state.
+- **`next()`:** Retrieves the next value from an iterator.
+- **Lazy Evaluation:** Values are generated only when requested.
+- **`StopIteration`:** Indicates that an iterator has no more values.
+
+### 🛠️ Practical Implementation
+
+```python
+def number_generator(limit):
+    number = 1
+
+    while number <= limit:
+        yield number
+        number += 1
+
+numbers = number_generator(5)
+
+for value in numbers:
+    print(value)
+```
+
+### Expected Output
+
+```text
+1
+2
+3
+4
+5
+```
+
+### 🧠 Key Learning
+Generators are useful when working with large datasets or streams of information because they produce values on demand rather than building the complete sequence in memory.
+
+### 🚀 Practice Tasks
+1. Create a generator for even numbers.
+2. Generate a multiplication table using `yield`.
+3. Create a Fibonacci number generator.
+4. Compare a normal function returning a list with a generator function.
+
+**Skills:** Python, Generators, Iterators, Lazy Evaluation  
+**Contribution Type:** Python Technical Learning & Practice  
+**Date:** November 5, 2026
