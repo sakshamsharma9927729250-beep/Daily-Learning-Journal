@@ -137,3 +137,27 @@ Generators are useful when working with large datasets or streams of information
 **Skills:** Python, Generators, Iterators, Lazy Evaluation  
 **Contribution Type:** Python Technical Learning & Practice  
 **Date:** November 5, 2026
+
+## November 6, 2026 — Python Exception Handling
+
+### Today's Focus
+Practiced Python exception handling and learned how to make user input more reliable.
+
+### Key Learnings
+- Understood the purpose of `try` and `except`.
+- Used `ValueError` to handle invalid numeric input.
+- Applied input validation to reject non-positive numbers.
+- Used a loop to allow users to retry invalid input.
+- Improved the reliability of a simple command-line program.
+
+### Practical Implementation
+Created a positive-number input program that:
+- Accepts valid numeric input.
+- Handles invalid text without crashing.
+- Rejects zero and negative values.
+- Repeats the input process until valid data is received.
+
+### Key Takeaway
+Reliable programs should handle unexpected input gracefully instead of crashing.
+
+**Today's Progress:** Practiced exception handling, input validation, and writing more robust Python code.
