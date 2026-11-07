@@ -161,3 +161,27 @@ Created a positive-number input program that:
 Reliable programs should handle unexpected input gracefully instead of crashing.
 
 **Today's Progress:** Practiced exception handling, input validation, and writing more robust Python code.
+
+## November 7, 2026 — Python JSON File Handling
+
+### Today's Focus
+Practiced storing and retrieving structured data using Python's JSON module.
+
+### Key Learnings
+- Understood JSON data format.
+- Practiced `json.dump()` to write Python data into a JSON file.
+- Used `json.load()` to retrieve stored data.
+- Learned how to handle missing files using `FileNotFoundError`.
+- Explored basic data persistence in Python.
+
+### Practical Implementation
+Created a student record storage program that:
+- Stores student names and marks.
+- Saves records inside a JSON file.
+- Reads stored records from the file.
+- Handles a missing JSON file gracefully.
+
+### Key Takeaway
+File handling allows Python applications to preserve data beyond a single program execution.
+
+**Today's Progress:** Practiced JSON serialization, deserialization, and persistent data storage.
