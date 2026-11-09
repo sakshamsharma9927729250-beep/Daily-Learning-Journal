@@ -177,7 +177,30 @@ Practiced storing and retrieving structured data using Python's JSON module.
 ### Practical Implementation
 Created a student record storage program that:
 - Stores student names and marks.
-- Saves records inside a JSON file.
+- Saves records inside a JSON file.## November 9, 2026 — Python CSV File Handling
+
+### Today's Focus
+Practiced reading and writing structured tabular data using Python's CSV module.
+
+### Key Learnings
+- Understood the purpose of CSV files.
+- Practiced using Python's `csv` module.
+- Used `csv.DictWriter()` to write records.
+- Used `writeheader()` and `writerows()` to store structured data.
+- Used `csv.DictReader()` to read records.
+- Explored how CSV files can be used for simple data storage.
+
+### Practical Implementation
+Created a student record management script that:
+- Stores student names and marks.
+- Writes records into a CSV file.
+- Reads saved records from the file.
+- Displays each student's information.
+
+### Key Takeaway
+CSV handling is useful when working with structured tabular data and exchanging data between applications.
+
+**Today's Progress:** Practiced CSV reading, writing, and structured data management.
 - Reads stored records from the file.
 - Handles a missing JSON file gracefully.
 
@@ -185,3 +208,4 @@ Created a student record storage program that:
 File handling allows Python applications to preserve data beyond a single program execution.
 
 **Today's Progress:** Practiced JSON serialization, deserialization, and persistent data storage.
+
