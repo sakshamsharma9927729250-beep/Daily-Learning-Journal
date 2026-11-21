@@ -241,3 +241,11 @@ Idempotency is a property where executing the same operation multiple times prod
 It is important in APIs, payment systems, database operations, and retry mechanisms to prevent duplicate actions.
 
 Example: Updating a user's status to "active" multiple times should not create multiple users or duplicate records.
+
+📚 Learning: Race Conditions
+
+A race condition occurs when multiple processes or threads access or modify shared resources simultaneously, causing unpredictable results.
+
+It can lead to incorrect counters, inconsistent data, and unexpected application behavior.
+
+Solutions include locks, synchronization, atomic operations, and transaction management.
