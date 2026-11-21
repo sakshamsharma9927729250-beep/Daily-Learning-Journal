@@ -249,3 +249,11 @@ A race condition occurs when multiple processes or threads access or modify shar
 It can lead to incorrect counters, inconsistent data, and unexpected application behavior.
 
 Solutions include locks, synchronization, atomic operations, and transaction management.
+
+📚 Learning: Caching
+
+Caching stores frequently accessed data temporarily to reduce response time and unnecessary database queries.
+
+Cache invalidation is the process of updating or removing stale cached data when the original data changes.
+
+A cache improves performance but requires proper consistency management.
