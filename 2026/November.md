@@ -257,3 +257,16 @@ Caching stores frequently accessed data temporarily to reduce response time and 
 Cache invalidation is the process of updating or removing stale cached data when the original data changes.
 
 A cache improves performance but requires proper consistency management.
+
+📚 Learning: Time Complexity
+
+Time complexity describes how an algorithm's execution time grows as the input size increases.
+
+Common complexities:
+O(1) — Constant
+O(log n) — Logarithmic
+O(n) — Linear
+O(n log n) — Linearithmic
+O(n²) — Quadratic
+
+Understanding Big O helps developers select scalable and efficient algorithms.
