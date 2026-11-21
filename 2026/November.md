@@ -233,3 +233,11 @@ Created a student record management script that:
 CSV handling is useful when working with structured tabular data and exchanging data between applications.
 
 **Today's Progress:** Practiced CSV reading, writing, and structured data management.
+
+📚 Learning: Idempotency
+
+Idempotency is a property where executing the same operation multiple times produces the same final result as executing it once.
+
+It is important in APIs, payment systems, database operations, and retry mechanisms to prevent duplicate actions.
+
+Example: Updating a user's status to "active" multiple times should not create multiple users or duplicate records.
