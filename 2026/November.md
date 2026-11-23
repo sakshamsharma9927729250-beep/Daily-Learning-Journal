@@ -270,3 +270,34 @@ O(n log n) — Linearithmic
 O(n²) — Quadratic
 
 Understanding Big O helps developers select scalable and efficient algorithms.
+
+# Daily Learning Journal — 23 November 2026
+
+## Topic: C Programming – Conditional Logic
+
+### Today's Learning
+- Studied conditional statements in C programming.
+- Practiced `if`, `if-else`, `else-if` ladder, and nested `if`.
+- Understood how conditions control program execution.
+- Practiced relational and logical operators.
+- Analyzed decision-making flow in programs.
+
+### Technical Concepts
+- Conditional branching
+- Boolean evaluation
+- Relational operators
+- Logical operators (`&&`, `||`, `!`)
+- Nested decision structures
+
+### Practical Implementation
+Implemented conditional programs to:
+- Identify even and odd numbers.
+- Evaluate conditions using relational operators.
+- Categorize marks into grades.
+- Apply multiple conditions using nested `if`.
+
+### Key Takeaway
+Conditional statements enable programs to make decisions dynamically based on input and logical conditions, forming the foundation of intelligent program flow.
+
+### Progress
+Continuing to strengthen C programming fundamentals through logic building, practical implementation, and structured coding practice.
