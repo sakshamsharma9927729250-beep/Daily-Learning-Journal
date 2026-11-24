@@ -302,4 +302,28 @@ Conditional statements enable programs to make decisions dynamically based on in
 ### Progress
 Continuing to strengthen C programming fundamentals through logic building, practical implementation, and structured coding practice.
 
+# Day 6 — C Programming Learning Log
+**Date:** 24 November 2026
+
+### Topics Covered
+- Introduction to functions in C
+- Library functions and user-defined functions
+- Function declaration, definition and calling
+- Parameters and arguments
+- Return types and return values
+- Code reusability and modular programming
+
+### Practical Work
+- Created a user-defined addition function.
+- Passed two integer arguments to a function.
+- Returned the calculated result to `main()`.
+- Practiced breaking program logic into reusable functions.
+
+### Key Learning
+Functions make programs modular, reusable, easier to debug and maintain. Instead of writing the same logic repeatedly, we can create a function and call it whenever required.
+
+### Learning Status
+Completed today's C programming practice and strengthened my understanding of modular programming and function-based logic.
+
+#C #Programming #LearningJourney #Functions #GitHub #CodeDaily
 
